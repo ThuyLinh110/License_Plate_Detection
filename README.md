@@ -9,7 +9,7 @@
 
 ## Setup
 - Clone the repository :
-  $ git clone https://github.com/ThuyLinh110/ThuyLinh110.github.io/tree/master/AI/License_Plate_Detection
+  $ git clone https://github.com/ThuyLinh110/License_Plate_Detection
 - Install the needed modules using:  pip install -r requirements.txt
 - Run project: python main.py
 
